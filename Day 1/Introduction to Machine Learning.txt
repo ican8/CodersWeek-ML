@@ -1,0 +1,13 @@
+Introduction to Machine Learning
+
+Artificial Intelligence (AI), Machine Learning (ML) and Deep Learning (DL) are the most popular terms in today’s world.
+Often they are used as aliases of each other, but they are different.
+In simple words, AI  is a technique that makes machine smarter. ML is a system that learns from previous knowledge, while DL is ML applied on larger data.
+ 
+So basically AI is a larger system and ML and DL lie under its umbrella.
+In day to day life, we see adds related to our browsing history, You Tube recommends videos of similar category to our watchlist , e-commerce websites show products related to our interests and all of this is amazing!
+This is all possible due to “Machine Learning” , which learns from historical data provided to it and its accuracy goes on increasing with time. Such models are not programmed explicitly to so, but they learn from their past experience and improve their performance as they “learn” more.
+In layman’s words , it is similar to the process how children can differentiate between cats and dogs, tables and chairs, etc. Their parents teach them that this particular object is called ‘table’ and so on. After the kid has seen that object sufficient times it starts to recognizing it. This is similar to Supervised Learning in ML, where we feed data along with correct labels to models, then the model learns itself to predict the correct output. 
+ML also consists of Unsupervised Learning and Reinforcement Learning. In Unsupervised Learning only data is fed to the model and the model finds some structure/pattern in it with the help of cluster and associations. If a kid is provided with lids and boxes of different sizes , without any prior knowledge it will find correct matches of the boxes and lids, it is kind of Unsupervised Learning. 
+In Reinforcement Learning, feedback is provided to the model so that improves its performance on every next pass. On making big mistakes, parents scold their child, where they appreciate it on doing right things. The behavior of parents acts as either positive or negative feedback for the child and it learns to do the right things.
+To summarize, Machine Leaning is basically how machine “learns” under different scenarios.  
